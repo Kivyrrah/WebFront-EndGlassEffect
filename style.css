@@ -23,6 +23,11 @@ body {
     user-select: none;
 }
 
+.text0 {
+    align-items: center;
+    justify-items: center;
+}
+
 .glass {
     position: absolute;
     width: 1500px;
